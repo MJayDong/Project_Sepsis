@@ -1,6 +1,6 @@
 # -----------------------------------------------------------
 # Script: Sepsis_6.Analysis_SHAP.R
-# Module: 03_crosscell_analysis
+# Module: 06_ML_SHAP
 #
 # Description:
 #   SHAP-based model interpretability analysis for sepsis
